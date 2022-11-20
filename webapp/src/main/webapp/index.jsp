@@ -14,3 +14,4 @@
 <h2>AUTOMATED DEPLOYMENT OF THE WEBSITE ON APACHE TOMCAT SERVER IN WINDOWS ENVIRONMENT USING JENKINS</h2>
 <h3>I am making changes in index.jsp file in the  Github repository and want to see how these changes are shown in the final output webpage </h3>
 <h3>This line is written to trigger Github Hook, so any code commit in Github be automatically integrated and deployed in the tomcat server </h3>
+<h3>This line is written to trigger Github Hook, so any code commit in Github be automatically integrated and deployed in the tomcat server </h3>
